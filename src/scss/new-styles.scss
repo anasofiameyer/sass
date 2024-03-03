@@ -1,0 +1,9 @@
+$primary-color: rgb(100, 177, 245);
+$secondary-color: grey;
+
+@import 'reset';
+
+@import 'base';
+@import 'content';
+@import 'nav';
+
