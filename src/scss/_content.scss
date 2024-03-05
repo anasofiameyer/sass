@@ -41,5 +41,17 @@
   a:visited {
     color: $primary-color;
   }
+
+  h3 {
+    font-size: 3rem;
+    font-style: oblique;
+    padding-bottom: 20px;
+  }
+
+  h4 {
+    font-size: 1.8rem;
+    text-decoration: underline;
+    padding-bottom: 5px;
+  }
 }
 
