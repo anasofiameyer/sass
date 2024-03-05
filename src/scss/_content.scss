@@ -28,11 +28,18 @@
     width: 550px;
     margin-bottom: 30px;
   }
+
+  ul {
+    list-style-position: inside;
+    font-size: 2rem;
+  }
+
+  a:link {
+    color: $primary-color;
+  }
+
+  a:visited {
+    color: $primary-color;
+  }
 }
 
-.content img, .content video {
-  padding-left: 30px;
-  height: 350px;
-  width: 550px;
-  margin-bottom: 30px;
-}
